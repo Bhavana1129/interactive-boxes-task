@@ -1,43 +1,57 @@
+----------------------------------------
+           INTERACTIVE BOXES TASK
+----------------------------------------
 
----
+A clean, interactive UI implementation based on the Figma design. 
+This project demonstrates front-end skills using HTML, CSS, and JavaScript,
+focusing on expand/collapse interactions and single selection behavior.
 
-## ⚙️ How to Run Locally
+----------------------------------------
+LIVE DEMO
+----------------------------------------
 
-1. Download or clone the repository
-2. Open the folder
-3. Double click on `index.html`
+Check it live here: https://bhavana1129.github.io/interactive-boxes-task/
+----------------------------------------
+HOW TO RUN LOCALLY
+----------------------------------------
+
+1. Clone or download this repository
+2. Open the project folder
+3. Double-click on index.html
 
 OR
 
-Use Live Server in VS Code.
+- Use Live Server in VS Code for instant preview
 
----
+----------------------------------------
+FEATURES
+----------------------------------------
 
-## 📋 Task Requirements Covered
+- UI closely matches the Figma design
+- Expand/collapse interaction on click
+- Only one selection active at a time
+- Clean, structured, and readable code
+- No external libraries or frameworks used
+- Fully functional and interactive
 
-- ✅ UI similar to Figma design
-- ✅ Expand/collapse interaction on click
-- ✅ Only one selection active at a time
-- ✅ No libraries or frameworks used
-- ✅ Clean and structured code
-- ✅ Hosted live and repository provided
+----------------------------------------
+NOTES
+----------------------------------------
 
----
+- Focused on functionality, clean code, and user interaction
+- Designed for simplicity, responsiveness, and ease of use
 
-## 🧠 Notes
+----------------------------------------
+AUTHOR
+----------------------------------------
 
-- The design is implemented as closely as possible to the Figma reference.
-- The main focus is on functionality, structure, and interaction as required in the screening task.
-
----
-
-## 👤 Author
-
-**Bhavana V**  
+Bhavana V
 Frontend Developer Candidate
+LinkedIn: https://www.linkedin.com/in/bhavana-v-80161a244/
+GitHub: https://github.com/Bhavana1129
 
----
+----------------------------------------
+LICENSE
+----------------------------------------
 
-## 📄 License
-
-This project is created only for screening and evaluation purposes.
+This project is created solely for screening purposes.
